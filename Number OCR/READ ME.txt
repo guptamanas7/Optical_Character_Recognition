@@ -1,0 +1,20 @@
+----------- HOW TO USE -----------
+Place your Images in Folder named "Images" (with labelled as correct value) and run the program "model.py"
+
+----------- THINGS THAT THIS FOLDER CONTAINS ----------
+Folder - data
+contains - Initial training data set of the model
+
+Folder - Images
+contains - Images by user with labelled as their correct values
+
+Folder - Trained_Model
+contains - Values of parameters in ".csv" format which we got after training the program with 40,000 different images for 1,00,000 iterations with 96% accuracy
+
+File - model.py
+contains - The final program to predict and display the value of images
+
+File - model_training.py
+contains - Training model program code
+
+ 
